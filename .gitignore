@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+
+# Never commit game files or decompiled game code.
+*.dll
+
+# Release builds (scripts/package-release.ps1)
+dist/

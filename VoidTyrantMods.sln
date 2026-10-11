@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1BEAA1B3-5529-4760-8E7E-8E03C3F195B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoidTyrant.ModKit", "src\VoidTyrant.ModKit\VoidTyrant.ModKit.csproj", "{224662A7-D17C-4B11-A3F2-DC0FAF93C96F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoidTyrant.DebugPanel", "src\VoidTyrant.DebugPanel\VoidTyrant.DebugPanel.csproj", "{58DDCACE-9956-4833-B25D-49F90DD42AD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{224662A7-D17C-4B11-A3F2-DC0FAF93C96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224662A7-D17C-4B11-A3F2-DC0FAF93C96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224662A7-D17C-4B11-A3F2-DC0FAF93C96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224662A7-D17C-4B11-A3F2-DC0FAF93C96F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58DDCACE-9956-4833-B25D-49F90DD42AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DDCACE-9956-4833-B25D-49F90DD42AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DDCACE-9956-4833-B25D-49F90DD42AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DDCACE-9956-4833-B25D-49F90DD42AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{224662A7-D17C-4B11-A3F2-DC0FAF93C96F} = {1BEAA1B3-5529-4760-8E7E-8E03C3F195B4}
+		{58DDCACE-9956-4833-B25D-49F90DD42AD7} = {1BEAA1B3-5529-4760-8E7E-8E03C3F195B4}
+	EndGlobalSection
+EndGlobal
