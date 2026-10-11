@@ -1,0 +1,5 @@
+{
+  // Card names and their current values are listed in Mods/_reference/cards.json.
+  "Potion": { "value": 10 },   // shop price
+  "Repair": { "cost": 0 }      // energy cost
+}

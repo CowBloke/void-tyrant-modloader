@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>VoidTyrant.DebugPanel</AssemblyName>
+    <RootNamespace>VoidTyrant.DebugPanel</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- Deployed as its own plugin; never copy the ModKit into this plugin's folder. -->
+    <ProjectReference Include="..\VoidTyrant.ModKit\VoidTyrant.ModKit.csproj" Private="false" />
+  </ItemGroup>
+</Project>

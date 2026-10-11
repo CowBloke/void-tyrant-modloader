@@ -1,0 +1,9 @@
+{
+  "id": "example-mod",
+  "name": "Example Mod",
+  "version": "1.0.0",
+  "author": "Void Tyrant ModKit",
+  "description": "Cheaper potions and repairs. Copy this folder to start your own mod.",
+  // Set to true to try it. Mods that change card stats turn Steam achievements off.
+  "enabled": false
+}

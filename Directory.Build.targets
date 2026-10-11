@@ -1,0 +1,15 @@
+<Project>
+  <Target Name="CheckGameInstall" BeforeTargets="ResolveAssemblyReferences">
+    <Error Condition="!Exists('$(ManagedDir)\Assembly-CSharp.dll')"
+           Text="Void Tyrant not found at '$(GameDir)'. Pass -p:GameDir=&quot;...&quot; to point at your install." />
+    <Error Condition="!Exists('$(BepInExDir)\core\BepInEx.dll')"
+           Text="BepInEx is not installed in '$(GameDir)'. Run scripts\install-bepinex.ps1 first." />
+  </Target>
+
+  <!-- Each plugin gets its own folder: BepInEx\plugins\<AssemblyName>\ -->
+  <Target Name="DeployPlugin" AfterTargets="Build" Condition="'$(DeployToGame)' == 'true'">
+    <MakeDir Directories="$(BepInExDir)\plugins\$(AssemblyName)" />
+    <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(BepInExDir)\plugins\$(AssemblyName)" />
+    <Message Importance="high" Text="Deployed $(AssemblyName) -> $(BepInExDir)\plugins\$(AssemblyName)" />
+  </Target>
+</Project>
