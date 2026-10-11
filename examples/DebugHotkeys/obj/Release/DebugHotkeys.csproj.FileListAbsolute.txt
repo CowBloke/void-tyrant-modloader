@@ -1,0 +1,5 @@
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\examples\DebugHotkeys\bin\Release\VoidTyrant.DebugHotkeys.dll
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\examples\DebugHotkeys\obj\Release\DebugHotkeys.csproj.AssemblyReference.cache
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\examples\DebugHotkeys\obj\Release\DebugHotkeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\examples\DebugHotkeys\obj\Release\DebugHotkeys.csproj.CoreCompileInputs.cache
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\examples\DebugHotkeys\obj\Release\VoidTyrant.DebugHotkeys.dll

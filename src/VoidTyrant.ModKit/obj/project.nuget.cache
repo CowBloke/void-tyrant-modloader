@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rni2wwn/ZIk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cowbloke\\Programming\\Repositories\\void-tyrant-mod\\src\\VoidTyrant.ModKit\\VoidTyrant.ModKit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cowbloke\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\cowbloke\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

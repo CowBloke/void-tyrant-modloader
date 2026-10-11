@@ -1,0 +1,5 @@
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\src\VoidTyrant.ModKit\bin\Release\VoidTyrant.ModKit.dll
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\src\VoidTyrant.ModKit\obj\Release\VoidTyrant.ModKit.csproj.AssemblyReference.cache
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\src\VoidTyrant.ModKit\obj\Release\VoidTyrant.ModKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\src\VoidTyrant.ModKit\obj\Release\VoidTyrant.ModKit.csproj.CoreCompileInputs.cache
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\src\VoidTyrant.ModKit\obj\Release\VoidTyrant.ModKit.dll

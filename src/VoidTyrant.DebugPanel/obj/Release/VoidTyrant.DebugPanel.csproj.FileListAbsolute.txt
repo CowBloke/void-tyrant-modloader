@@ -1,0 +1,5 @@
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\src\VoidTyrant.DebugPanel\bin\Release\VoidTyrant.DebugPanel.dll
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\src\VoidTyrant.DebugPanel\obj\Release\VoidTyrant.DebugPanel.csproj.AssemblyReference.cache
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\src\VoidTyrant.DebugPanel\obj\Release\VoidTyrant.DebugPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\src\VoidTyrant.DebugPanel\obj\Release\VoidTyrant.DebugPanel.csproj.CoreCompileInputs.cache
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\src\VoidTyrant.DebugPanel\obj\Release\VoidTyrant.DebugPanel.dll

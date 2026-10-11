@@ -1,0 +1,5 @@
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\examples\GoldRush\bin\Release\VoidTyrant.GoldRush.dll
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\examples\GoldRush\obj\Release\GoldRush.csproj.AssemblyReference.cache
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\examples\GoldRush\obj\Release\GoldRush.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\examples\GoldRush\obj\Release\GoldRush.csproj.CoreCompileInputs.cache
+C:\Users\cowbloke\Programming\Repositories\void-tyrant-mod\examples\GoldRush\obj\Release\VoidTyrant.GoldRush.dll
